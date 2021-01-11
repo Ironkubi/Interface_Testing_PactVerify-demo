@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+*.xml
+reports/
+__pycache__/
+tests.py
